@@ -22,6 +22,5 @@ else
 System.out.println("Neither Increasing nor decreasing");
 }
 }
-}
-		}
+
 }
