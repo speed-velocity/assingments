@@ -17,5 +17,11 @@ public static void main(String[] args) {
 		{
 		System.out.println("Decreasing");
 		}
+else
+{
+System.out.println("Neither Increasing nor decreasing");
+}
+}
+}
 		}
 }
